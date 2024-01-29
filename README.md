@@ -1,2 +1,3 @@
-# Hola_mundo
-Este es el programa, para poder mostrar los datos de nombre, id y la materia.
+# Repositorio Graficación de Videojuegos
+¡Hola!, en este repositorio se encuentran las actividades y proyectos.
+Efraín Gómez Arcive 176144
