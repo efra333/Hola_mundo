@@ -1,0 +1,10 @@
+C:\Users\Efrain\Documents\Graficación\MundoHola\ActCentroide\bin\Debug\ActCentroide.exe.config
+C:\Users\Efrain\Documents\Graficación\MundoHola\ActCentroide\bin\Debug\ActCentroide.exe
+C:\Users\Efrain\Documents\Graficación\MundoHola\ActCentroide\bin\Debug\ActCentroide.pdb
+C:\Users\Efrain\Documents\Graficación\MundoHola\ActCentroide\obj\Debug\ActCentroide.csproj.AssemblyReference.cache
+C:\Users\Efrain\Documents\Graficación\MundoHola\ActCentroide\obj\Debug\ActCentroide.Form1.resources
+C:\Users\Efrain\Documents\Graficación\MundoHola\ActCentroide\obj\Debug\ActCentroide.Properties.Resources.resources
+C:\Users\Efrain\Documents\Graficación\MundoHola\ActCentroide\obj\Debug\ActCentroide.csproj.GenerateResource.cache
+C:\Users\Efrain\Documents\Graficación\MundoHola\ActCentroide\obj\Debug\ActCentroide.csproj.CoreCompileInputs.cache
+C:\Users\Efrain\Documents\Graficación\MundoHola\ActCentroide\obj\Debug\ActCentroide.exe
+C:\Users\Efrain\Documents\Graficación\MundoHola\ActCentroide\obj\Debug\ActCentroide.pdb
