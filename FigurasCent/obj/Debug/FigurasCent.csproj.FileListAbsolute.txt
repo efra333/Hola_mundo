@@ -1,0 +1,10 @@
+C:\Users\Efrain\Documents\Graficación\MundoHola\FigurasCent\bin\Debug\FigurasCent.exe.config
+C:\Users\Efrain\Documents\Graficación\MundoHola\FigurasCent\bin\Debug\FigurasCent.exe
+C:\Users\Efrain\Documents\Graficación\MundoHola\FigurasCent\bin\Debug\FigurasCent.pdb
+C:\Users\Efrain\Documents\Graficación\MundoHola\FigurasCent\obj\Debug\FigurasCent.csproj.AssemblyReference.cache
+C:\Users\Efrain\Documents\Graficación\MundoHola\FigurasCent\obj\Debug\FigurasCent.Form1.resources
+C:\Users\Efrain\Documents\Graficación\MundoHola\FigurasCent\obj\Debug\FigurasCent.Properties.Resources.resources
+C:\Users\Efrain\Documents\Graficación\MundoHola\FigurasCent\obj\Debug\FigurasCent.csproj.GenerateResource.cache
+C:\Users\Efrain\Documents\Graficación\MundoHola\FigurasCent\obj\Debug\FigurasCent.csproj.CoreCompileInputs.cache
+C:\Users\Efrain\Documents\Graficación\MundoHola\FigurasCent\obj\Debug\FigurasCent.exe
+C:\Users\Efrain\Documents\Graficación\MundoHola\FigurasCent\obj\Debug\FigurasCent.pdb
