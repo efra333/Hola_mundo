@@ -1,0 +1,53 @@
+E:\DOCS\CLASES\GRAPHIX\PARCIAL IV\0001\0001\bin\Debug\0001.exe
+E:\DOCS\CLASES\GRAPHIX\PARCIAL IV\0001\0001\bin\Debug\0001.pdb
+E:\DOCS\CLASES\GRAPHIX\PARCIAL IV\0001\0001\obj\x86\Debug\_0001.MAIN.resources
+E:\DOCS\CLASES\GRAPHIX\PARCIAL IV\0001\0001\obj\x86\Debug\_0001.Properties.Resources.resources
+E:\DOCS\CLASES\GRAPHIX\PARCIAL IV\0001\0001\obj\x86\Debug\0001.csproj.GenerateResource.Cache
+E:\DOCS\CLASES\GRAPHIX\PARCIAL IV\0001\0001\obj\x86\Debug\0001.exe
+E:\DOCS\CLASES\GRAPHIX\PARCIAL IV\0001\0001\obj\x86\Debug\0001.pdb
+E:\DOCS\CLASES\GRAPHIX\PARCIAL IV\0001\0001\obj\x86\Debug\_0001.FormPreviewDialog.resources
+E:\DOCS\CLASES\GRAPHIX\PARCIAL IV\0001\0001\obj\x86\Debug\0001.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Sistemas\0001\bin\Debug\0001.exe.config
+C:\Users\user\Desktop\Sistemas\0001\bin\Debug\0001.exe
+C:\Users\user\Desktop\Sistemas\0001\bin\Debug\0001.pdb
+C:\Users\user\Desktop\Sistemas\0001\obj\x86\Debug\0001.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Sistemas\0001\obj\x86\Debug\_0001.FormPreviewDialog.resources
+C:\Users\user\Desktop\Sistemas\0001\obj\x86\Debug\_0001.MAIN.resources
+C:\Users\user\Desktop\Sistemas\0001\obj\x86\Debug\_0001.Properties.Resources.resources
+C:\Users\user\Desktop\Sistemas\0001\obj\x86\Debug\0001.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Sistemas\0001\obj\x86\Debug\0001.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Sistemas\0001\obj\x86\Debug\0001.exe
+C:\Users\user\Desktop\Sistemas\0001\obj\x86\Debug\0001.pdb
+C:\Users\Efrain\Downloads\jijija\0001\bin\Debug\0001.exe.config
+C:\Users\Efrain\Downloads\jijija\0001\bin\Debug\0001.exe
+C:\Users\Efrain\Downloads\jijija\0001\bin\Debug\0001.pdb
+C:\Users\Efrain\Downloads\jijija\0001\obj\x86\Debug\0001.csproj.AssemblyReference.cache
+C:\Users\Efrain\Downloads\jijija\0001\obj\x86\Debug\_0001.FormPreviewDialog.resources
+C:\Users\Efrain\Downloads\jijija\0001\obj\x86\Debug\_0001.MAIN.resources
+C:\Users\Efrain\Downloads\jijija\0001\obj\x86\Debug\_0001.Properties.Resources.resources
+C:\Users\Efrain\Downloads\jijija\0001\obj\x86\Debug\0001.csproj.GenerateResource.cache
+C:\Users\Efrain\Downloads\jijija\0001\obj\x86\Debug\0001.csproj.CoreCompileInputs.cache
+C:\Users\Efrain\Downloads\jijija\0001\obj\x86\Debug\0001.exe
+C:\Users\Efrain\Downloads\jijija\0001\obj\x86\Debug\0001.pdb
+C:\Users\user\Desktop\Sistemas\Nueva carpeta (2)\jijija\0001\bin\Debug\0001.exe.config
+C:\Users\user\Desktop\Sistemas\Nueva carpeta (2)\jijija\0001\bin\Debug\0001.exe
+C:\Users\user\Desktop\Sistemas\Nueva carpeta (2)\jijija\0001\bin\Debug\0001.pdb
+C:\Users\user\Desktop\Sistemas\Nueva carpeta (2)\jijija\0001\obj\x86\Debug\0001.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Sistemas\Nueva carpeta (2)\jijija\0001\obj\x86\Debug\_0001.FormPreviewDialog.resources
+C:\Users\user\Desktop\Sistemas\Nueva carpeta (2)\jijija\0001\obj\x86\Debug\_0001.MAIN.resources
+C:\Users\user\Desktop\Sistemas\Nueva carpeta (2)\jijija\0001\obj\x86\Debug\_0001.Properties.Resources.resources
+C:\Users\user\Desktop\Sistemas\Nueva carpeta (2)\jijija\0001\obj\x86\Debug\0001.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Sistemas\Nueva carpeta (2)\jijija\0001\obj\x86\Debug\0001.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Sistemas\Nueva carpeta (2)\jijija\0001\obj\x86\Debug\0001.exe
+C:\Users\user\Desktop\Sistemas\Nueva carpeta (2)\jijija\0001\obj\x86\Debug\0001.pdb
+C:\Users\Efrain\Downloads\Nuevo WinRAR ZIP archive\0001\bin\Debug\0001.exe.config
+C:\Users\Efrain\Downloads\Nuevo WinRAR ZIP archive\0001\bin\Debug\0001.exe
+C:\Users\Efrain\Downloads\Nuevo WinRAR ZIP archive\0001\bin\Debug\0001.pdb
+C:\Users\Efrain\Downloads\Nuevo WinRAR ZIP archive\0001\obj\x86\Debug\0001.csproj.AssemblyReference.cache
+C:\Users\Efrain\Downloads\Nuevo WinRAR ZIP archive\0001\obj\x86\Debug\_0001.FormPreviewDialog.resources
+C:\Users\Efrain\Downloads\Nuevo WinRAR ZIP archive\0001\obj\x86\Debug\_0001.MAIN.resources
+C:\Users\Efrain\Downloads\Nuevo WinRAR ZIP archive\0001\obj\x86\Debug\_0001.Properties.Resources.resources
+C:\Users\Efrain\Downloads\Nuevo WinRAR ZIP archive\0001\obj\x86\Debug\0001.csproj.GenerateResource.cache
+C:\Users\Efrain\Downloads\Nuevo WinRAR ZIP archive\0001\obj\x86\Debug\0001.csproj.CoreCompileInputs.cache
+C:\Users\Efrain\Downloads\Nuevo WinRAR ZIP archive\0001\obj\x86\Debug\0001.exe
+C:\Users\Efrain\Downloads\Nuevo WinRAR ZIP archive\0001\obj\x86\Debug\0001.pdb
